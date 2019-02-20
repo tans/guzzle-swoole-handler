@@ -1,5 +1,5 @@
 {
-    "name": "limingxinleo/guzzle-swoole-handler",
+    "name": "tans/guzzle-swoole-handler",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -26,8 +26,7 @@
         }
     },
     "require": {
-        "php": ">=7.0",
-        "ext-swoole": "^4.0"
+        "php": ">=7.0"
     },
     "require-dev": {
         "swoft/swoole-ide-helper": "dev-master",
